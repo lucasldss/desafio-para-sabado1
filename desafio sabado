@@ -1,0 +1,10 @@
+PS C:\Users\Administrator\Desktop\servidor_udp.py> python cliente_udp.py
+  File "C:\Users\Administrator\Desktop\servidor_udp.py\cliente_udp.py", line 12
+    192.168.15.22
+    ^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+PS C:\Users\Administrator\Desktop\servidor_udp.py> python cliente_udp.py
+Digite sua mensagem: Olá! Estou em outro computador.
+Resposta do servidor:
+Servidor recebeu: Olá! Estou em outro computador.
+PS C:\Users\Administrator\Desktop\servidor_udp.py>
